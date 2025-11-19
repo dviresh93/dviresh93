@@ -120,13 +120,3 @@ ROS2 • PX4 • Embedded Systems
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linkedin.com/in/viresh-duvvuri)
 
 ---
-
-## 📊 GitHub Stats
-
-![Viresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dviresh93&show_icons=true&theme=radical)
-
----
-
-**Currently exploring:** Advanced multi-agent orchestration patterns, model fine-tuning for specialized domains, and production AI system reliability
-
-**Open to:** AI Engineer roles, collaborative projects in multi-agent systems, and interesting technical challenges
